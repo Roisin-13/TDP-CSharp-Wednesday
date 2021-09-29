@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\beginnerExcercises\beginnerExcercises\bin\Debug\net5.0\beginnerExcercises.exe
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\beginnerExcercises\beginnerExcercises\bin\Debug\net5.0\beginnerExcercises.deps.json
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\beginnerExcercises\beginnerExcercises\bin\Debug\net5.0\beginnerExcercises.runtimeconfig.json
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\beginnerExcercises\beginnerExcercises\bin\Debug\net5.0\beginnerExcercises.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\beginnerExcercises\beginnerExcercises\bin\Debug\net5.0\beginnerExcercises.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\beginnerExcercises\beginnerExcercises\bin\Debug\net5.0\ref\beginnerExcercises.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\beginnerExcercises\beginnerExcercises\bin\Debug\net5.0\beginnerExcercises.pdb
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\beginnerExcercises\beginnerExcercises\obj\Debug\net5.0\beginnerExcercises.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\beginnerExcercises\beginnerExcercises\obj\Debug\net5.0\beginnerExcercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\beginnerExcercises\beginnerExcercises\obj\Debug\net5.0\beginnerExcercises.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\beginnerExcercises\beginnerExcercises\obj\Debug\net5.0\beginnerExcercises.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\beginnerExcercises\beginnerExcercises\obj\Debug\net5.0\beginnerExcercises.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\beginnerExcercises\beginnerExcercises\obj\Debug\net5.0\beginnerExcercises.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\beginnerExcercises\beginnerExcercises\obj\Debug\net5.0\ref\beginnerExcercises.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\beginnerExcercises\beginnerExcercises\obj\Debug\net5.0\beginnerExcercises.pdb
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\beginnerExcercises\beginnerExcercises\obj\Debug\net5.0\beginnerExcercises.genruntimeconfig.cache

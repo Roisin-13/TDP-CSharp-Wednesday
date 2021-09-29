@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\FileWriteExcercises\FileWriteExcercises\bin\Debug\net5.0\FileWriteExcercises.exe
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\FileWriteExcercises\FileWriteExcercises\bin\Debug\net5.0\FileWriteExcercises.deps.json
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\FileWriteExcercises\FileWriteExcercises\bin\Debug\net5.0\FileWriteExcercises.runtimeconfig.json
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\FileWriteExcercises\FileWriteExcercises\bin\Debug\net5.0\FileWriteExcercises.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\FileWriteExcercises\FileWriteExcercises\bin\Debug\net5.0\FileWriteExcercises.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\FileWriteExcercises\FileWriteExcercises\bin\Debug\net5.0\ref\FileWriteExcercises.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\FileWriteExcercises\FileWriteExcercises\bin\Debug\net5.0\FileWriteExcercises.pdb
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\FileWriteExcercises\FileWriteExcercises\obj\Debug\net5.0\FileWriteExcercises.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\FileWriteExcercises\FileWriteExcercises\obj\Debug\net5.0\FileWriteExcercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\FileWriteExcercises\FileWriteExcercises\obj\Debug\net5.0\FileWriteExcercises.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\FileWriteExcercises\FileWriteExcercises\obj\Debug\net5.0\FileWriteExcercises.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\FileWriteExcercises\FileWriteExcercises\obj\Debug\net5.0\FileWriteExcercises.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\FileWriteExcercises\FileWriteExcercises\obj\Debug\net5.0\FileWriteExcercises.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\FileWriteExcercises\FileWriteExcercises\obj\Debug\net5.0\ref\FileWriteExcercises.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\FileWriteExcercises\FileWriteExcercises\obj\Debug\net5.0\FileWriteExcercises.pdb
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\FileWriteExcercises\FileWriteExcercises\obj\Debug\net5.0\FileWriteExcercises.genruntimeconfig.cache

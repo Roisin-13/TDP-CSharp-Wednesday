@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\MethodExcercises\MethodExcercises\bin\Debug\net5.0\MethodExcercises.exe
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\MethodExcercises\MethodExcercises\bin\Debug\net5.0\MethodExcercises.deps.json
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\MethodExcercises\MethodExcercises\bin\Debug\net5.0\MethodExcercises.runtimeconfig.json
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\MethodExcercises\MethodExcercises\bin\Debug\net5.0\MethodExcercises.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\MethodExcercises\MethodExcercises\bin\Debug\net5.0\MethodExcercises.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\MethodExcercises\MethodExcercises\bin\Debug\net5.0\ref\MethodExcercises.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\MethodExcercises\MethodExcercises\bin\Debug\net5.0\MethodExcercises.pdb
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\MethodExcercises\MethodExcercises\obj\Debug\net5.0\MethodExcercises.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\MethodExcercises\MethodExcercises\obj\Debug\net5.0\MethodExcercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\MethodExcercises\MethodExcercises\obj\Debug\net5.0\MethodExcercises.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\MethodExcercises\MethodExcercises\obj\Debug\net5.0\MethodExcercises.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\MethodExcercises\MethodExcercises\obj\Debug\net5.0\MethodExcercises.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\MethodExcercises\MethodExcercises\obj\Debug\net5.0\MethodExcercises.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\MethodExcercises\MethodExcercises\obj\Debug\net5.0\ref\MethodExcercises.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\MethodExcercises\MethodExcercises\obj\Debug\net5.0\MethodExcercises.pdb
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\MethodExcercises\MethodExcercises\obj\Debug\net5.0\MethodExcercises.genruntimeconfig.cache

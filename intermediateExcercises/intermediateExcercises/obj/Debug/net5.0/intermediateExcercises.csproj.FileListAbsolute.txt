@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\intermediateExcercises\intermediateExcercises\bin\Debug\net5.0\intermediateExcercises.exe
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\intermediateExcercises\intermediateExcercises\bin\Debug\net5.0\intermediateExcercises.deps.json
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\intermediateExcercises\intermediateExcercises\bin\Debug\net5.0\intermediateExcercises.runtimeconfig.json
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\intermediateExcercises\intermediateExcercises\bin\Debug\net5.0\intermediateExcercises.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\intermediateExcercises\intermediateExcercises\bin\Debug\net5.0\intermediateExcercises.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\intermediateExcercises\intermediateExcercises\bin\Debug\net5.0\ref\intermediateExcercises.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\intermediateExcercises\intermediateExcercises\bin\Debug\net5.0\intermediateExcercises.pdb
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\intermediateExcercises\intermediateExcercises\obj\Debug\net5.0\intermediateExcercises.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\intermediateExcercises\intermediateExcercises\obj\Debug\net5.0\intermediateExcercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\intermediateExcercises\intermediateExcercises\obj\Debug\net5.0\intermediateExcercises.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\intermediateExcercises\intermediateExcercises\obj\Debug\net5.0\intermediateExcercises.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\intermediateExcercises\intermediateExcercises\obj\Debug\net5.0\intermediateExcercises.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\intermediateExcercises\intermediateExcercises\obj\Debug\net5.0\intermediateExcercises.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\intermediateExcercises\intermediateExcercises\obj\Debug\net5.0\ref\intermediateExcercises.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\intermediateExcercises\intermediateExcercises\obj\Debug\net5.0\intermediateExcercises.pdb
+C:\Users\Admin\Desktop\TDP-CSharp-Wednesday\intermediateExcercises\intermediateExcercises\obj\Debug\net5.0\intermediateExcercises.genruntimeconfig.cache
