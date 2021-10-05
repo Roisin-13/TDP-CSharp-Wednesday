@@ -17,8 +17,8 @@ namespace intermediateExcercises
 
             //==============================EXCERCISE 2=============================//
             //SALARY CALCULATOR
-            TaxPercent();
-           Console.WriteLine($"Your tax rate is: {TaxPercent()}%");
+            TaxCalculator();
+         
 
 
 
@@ -122,21 +122,18 @@ namespace intermediateExcercises
 
 
 
-        //public static void TaxCalculator()
-        //{
-        //    Console.WriteLine("Please enter your Yearly Salary:");
-        //    string input = Console.ReadLine();
-        //    Console.WriteLine($"Your yearly salary is {input}, and your tax rate is {TaxPercent}%");
-
-
-        //}
-
-        private static int TaxPercent()
+        public static void TaxCalculator()
         {
             Console.WriteLine("Please enter your Yearly Salary:");
             string input = Console.ReadLine();
-            int taxInput = Convert.ToInt32(input);
+            int salary = Convert.ToInt32(input);
+            int taxRate = TaxPercent(salary); 
+            Console.WriteLine($"Your yearly salary is {input}, and your tax rate is {taxRate} %");
+            Console.WriteLine($"Your salary after tax is: {salary - (salary / 100 * taxRate)}");
+        }
 
+        public static int TaxPercent(int taxInput)
+        {
             if (taxInput <= 14_999)
             {
                 return 0;
@@ -161,9 +158,9 @@ namespace intermediateExcercises
             {
                 return 25;
             }
-
-            //Console.WriteLine($"Your tax rate is: {TaxPercent()}%");
         }
+
+
 
 
 
